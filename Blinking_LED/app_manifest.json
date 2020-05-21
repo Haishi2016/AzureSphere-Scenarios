@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Name": "SphereCar_LEDDisplay",
+  "Name": "Blinking_LED",
   "ComponentId": "1f16e562-ab86-4309-a45f-17797f98c223",
   "EntryPoint": "/bin/app",
   "CmdArgs": [],

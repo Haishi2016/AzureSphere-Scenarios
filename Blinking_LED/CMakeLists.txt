@@ -2,7 +2,7 @@
 #  Licensed under the MIT License.
 
 CMAKE_MINIMUM_REQUIRED(VERSION 3.8)
-PROJECT(SphereCar_LEDDisplay C)
+PROJECT(Blinking_LED C)
 
 # Create executable
 ADD_EXECUTABLE(${PROJECT_NAME} main.c)
