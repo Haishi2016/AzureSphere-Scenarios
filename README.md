@@ -16,6 +16,6 @@ To try out the samples in this repository, you’ll need:
 
 | Scenario | Circuit |
 |--------|--------|
-|[**Blinking LED light**](Blinking_LED/README.md) <br/>Make a LED light blink at certain frequency| [![circuit](imgs/blinking_led_small.jpg)](imgs/blinking_led.jpg)|
+|[**Blinking LED light**](Blinking_LED/README.md) <br/>Make a LED light blink at certain frequency| [![circuit](imgs/blinking_led_small.jpg)](imgs/blinking_led.png)|
 
 
