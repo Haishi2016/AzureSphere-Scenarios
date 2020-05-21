@@ -1,0 +1,11 @@
+{
+  "SchemaVersion": 1,
+  "Name": "SphereCar_LEDDisplay",
+  "ComponentId": "1f16e562-ab86-4309-a45f-17797f98c223",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": ["$MT3620_RDB_HEADER1_PIN4_GPIO"]
+  },
+  "ApplicationType": "Default"
+}
