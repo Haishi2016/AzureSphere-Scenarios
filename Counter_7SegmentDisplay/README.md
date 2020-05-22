@@ -5,6 +5,10 @@ This sample displays number 0 through F in a loop on a 7-segment display.
 ## Required parts
 | Part | Count |
 |---------|---------|
+| 7-segemnt display<br/>
+![7-segment](../imgs/7-segment.png)| 1 |
+| 74HC595<br/>
+![74HC595](../imgs/74hc595.png)| 1 |
 | Resistor 220Ω <br/>
 ![220ohm](../imgs/220ohm.png)| 8 | 
 | Jumper (M-to-F) <br/>
