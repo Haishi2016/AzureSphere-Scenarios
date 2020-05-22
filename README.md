@@ -25,6 +25,7 @@ azshpere device sideload delete
 
 | Scenario | Circuit |
 |--------|--------|
-|[**Blinking LED light**](Blinking_LED/README.md) <br/>Make a LED light blink at certain frequency| [![circuit](imgs/blinking_led_small.jpg)](imgs/blinking_led.png)|
-|[**7-segment Display Counter**](Counter_7SegmentDisplay/README.md) <br />Couunting from 0 to F on a 7-segment display| [![circult](imgs/7_segment_display_small.jpg)](imgs/7_segment_display.jpg)|
+|[**Blinking LED light**](Blinking_LED/README.md) <br/>Make a LED light blink at certain frequency
+<br/>[source](Blinking_LED)| [![circuit](imgs/blinking_led_small.jpg)](imgs/blinking_led.png)|
+|[**7-segment Display Counter**](Counter_7SegmentDisplay/README.md) <br />Couunting from 0 to F on a 7-segment display<br/>[source](Counter_7SegmentDisplay)| [![circult](imgs/7_segment_display_small.jpg)](imgs/7_segment_display.jpg)|
 
