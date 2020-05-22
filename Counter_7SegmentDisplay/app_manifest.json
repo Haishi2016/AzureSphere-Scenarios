@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Name": "SphereCar_SpeedDisplay",
+  "Name": "Counter_7SegmentDisplay",
   "ComponentId": "2a4ac604-9e4b-4b2b-b68e-972d595c348d",
   "EntryPoint": "/bin/app",
   "CmdArgs": [],

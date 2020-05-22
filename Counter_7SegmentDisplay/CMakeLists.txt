@@ -2,7 +2,7 @@
 #  Licensed under the MIT License.
 
 CMAKE_MINIMUM_REQUIRED(VERSION 3.8)
-PROJECT(SphereCar_SpeedDisplay C)
+PROJECT(Counter_7SegmentDisplay C)
 
 # Create executable
 ADD_EXECUTABLE(${PROJECT_NAME} main.c)
