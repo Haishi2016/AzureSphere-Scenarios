@@ -26,7 +26,7 @@ This sample displays number 0 through F in a loop on a 7-segment display.
 
 ## Circuit
 
-![Circuit](../imgs/blinking_led_circuit.png)
+TBD
 
 ## Notes (in case you needed them)
 
