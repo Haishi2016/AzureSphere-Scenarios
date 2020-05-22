@@ -13,14 +13,13 @@ To try out the samples in this repository, you’ll need:
 * An Azure Sphere device such as [MT3620]( https://www.mediatek.com/products/AIoT/mt3620)  - this is the device I tested with
 
 ## Running the code
-To launch a sample scenario, open the scenario folder with Visual Studio Code, and press **F5** while the device is attached to USB.
+To launch a sample scenario, open the scenario folder with Visual Studio Code, and press **F5** or **Ctrl + F5** (without debugger) while the device is attached to USB.
 
 To clean up, use Azure Spher CLI command:
 
 ```bash
 azshpere device sideload delete
 ```
-
 
 ## Scenarios
 
