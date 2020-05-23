@@ -25,6 +25,9 @@ This sample displays number 0 through F in a loop on a 7-segment display.
 | Header 1 Pin 4 | GPIO output|
 | Header 1 Pin 6 | GPIO output|
 | Header 1 Pin 8 | GPIO output|
+| Header 3 Pin 2 | Ground|
+| Header 3 Pin 3 | 3.3V|
+
 
 ## Circuit
 
