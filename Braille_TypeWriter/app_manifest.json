@@ -1,0 +1,16 @@
+{
+  "SchemaVersion": 1,
+  "Name": "Braille_TypeWriter",
+  "ComponentId": "da22e989-fcc6-4f24-907c-6198095a7b3c",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [
+      "$MT3620_RDB_HEADER1_PIN4_GPIO", 
+      "$MT3620_RDB_HEADER1_PIN6_GPIO", 
+      "$MT3620_RDB_HEADER1_PIN8_GPIO",
+      "$MT3620_RDB_HEADER1_PIN10_GPIO",
+      "$MT3620_RDB_HEADER1_PIN12_GPIO"]
+  },
+  "ApplicationType": "Default"
+}
